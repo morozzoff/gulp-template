@@ -1,0 +1,16 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.css",
+        "css/normalize.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+@include font-face("HelveticaNeue-Medium", "../fonts/HelveticaNeue-Medium", $file-formats: woff);
+@include font-face("Helveticaneuecyr-light", "../fonts/helveticaneuecyr-light", $file-formats: woff);
+@include font-face("Pacifico", "../fonts/Pacifico", $file-formats: woff);
+@include font-face("Raleway-SemiBold", "../fonts/Raleway-SemiBold", $file-formats: woff);
